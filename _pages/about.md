@@ -23,8 +23,8 @@ My research interest includes neural machine translation and computer vision. <a
 
 
 # 📖 Educations
-- *2015.07 - 2021.06*, Collge of Computer Science, Sichuan University, Ph.D.
-- *2011.09 - 2015.06*, Collge of Software, Sichuan University, B.E. 
+- *2015.07 - 2021.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Collge of Computer Science, Sichuan University, Ph.D.
+- *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Collge of Software, Sichuan University, B.E. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
