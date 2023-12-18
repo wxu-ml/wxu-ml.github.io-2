@@ -24,6 +24,7 @@ My research interest includes neural machine translation and computer vision. <a
 
 # 📖 Educations
 - *2015.07 - 2021.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Collge of Computer Science, Sichuan University, Ph.D.
+- *2021.09 - 2021.03*, <a href="https://[en.scu.edu.cn](https://www.adelaide.edu.au/aiml/)/"><img class="svg" src="/images/UOA_logo.svg" width="20pt"></a> Australian Institute for Machine Learning (AIML), University of Adelaide, Joint Ph.D.
 - *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Collge of Software, Sichuan University, B.E. 
 
 # 🔥 News
