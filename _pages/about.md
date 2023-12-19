@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Xu Wang (王旭)** is currently an assistant researcher at the College of Computer Science, Sichuan University. He received B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a visiting researcher in University of Adelaide and Australian Institute of Machine Learning (AIML), funded by China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis and Multi-modal Learning.
-
-My research interest includes neural machine translation and computer vision. <a href='https://scholar.google.com/citations?user=XTOXhy4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+**Xu Wang (王旭)** is currently an associate researcher at the College of Computer Science, Sichuan University. He received B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a visiting researcher in University of Adelaide and Australian Institute of Machine Learning (AIML), funded by China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis and Multi-modal Learning. <a href='https://scholar.google.com/citations?user=XTOXhy4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 📖 Educations
@@ -28,24 +26,25 @@ My research interest includes neural machine translation and computer vision. <a
 - *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> Collge of Software, Sichuan University, B.E. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024. Congratulations to Haoran! 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/DiDA_AAAI2024.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#** 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Driven by generative AI and the Internet, there is an increasing availability of a wide variety of images, leading to the significant and popular task of cross-domain image retrieval. To reduce annotation costs and increase performance, this paper focuses on an untouched but challenging problem, i.e., cross-domain image retrieval with partial labels (PCIR). Specifically, PCIR faces great challenges due to the ambiguous supervision signal and the domain gap. To address these challenges, we propose a novel method called disambiguated domain alignment (DiDA) for cross-domain retrieval with partial labels. In detail, DiDA elaborates a novel prototype-score unitization learning mechanism (PSUL) to extract common discriminative representations by simultaneously disambiguating the partial labels and narrowing the domain gap. Additionally, DiDA proposes a prototype-based domain alignment mechanism (PBDA) to further bridge the inherent cross-domain discrepancy. Attributed to PSUL and PBDA, our DiDA effectively excavates domain-invariant discrimination for cross-domain image retrieval. We demonstrate the effectiveness of DiDA through comprehensive experiments on three benchmarks, comparing it to existing state-of-the-art methods. Code available: https://github.com/lhrrrrrr/DiDA.
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, D **CVPR 2021**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
