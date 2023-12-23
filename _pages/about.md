@@ -45,7 +45,7 @@ Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/CoDA_AAAI2023.png' alt="sym" height="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/CoDA_AAAI2023.png' alt="sym" height="60%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image
