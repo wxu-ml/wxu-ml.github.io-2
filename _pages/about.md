@@ -31,7 +31,8 @@ redirect_from:
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/DiDA_AAAI2024.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div>
+  <img src='images/DiDA_AAAI2024.jpeg' alt="DiDA" width = "300" height = "200" align=center></div></div>
 <div class='paper-box-text' markdown="1">
   
 [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC)
@@ -45,7 +46,8 @@ Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/CoDA_AAAI2023.png' alt="sym" height="60%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div>
+  <img src='images/CoDA_AAAI2023.png' alt="CoDA" width = "300" height = "200" align=center></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image
