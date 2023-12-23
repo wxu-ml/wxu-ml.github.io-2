@@ -31,27 +31,23 @@ redirect_from:
 
 # 📝 Selected Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">AAAI 2024</div>
-      ![DiDA](images/DiDA_AAAI2024.jpeg =400x300)
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC)
-    
-    Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#** 
-    
-    [**[Paper]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-    [**[Code]**](https://github.com/wangxu-scu/DiDA)
-    - we propose a novel method called disambiguated domain alignment (DiDA) for cross-domain retrieval with partial labels. In detail, DiDA elaborates a novel prototype-score unitization learning mechanism (PSUL) to extract common discriminative representations by simultaneously disambiguating the partial labels and narrowing the domain gap. Additionally, DiDA proposes a prototype-based domain alignment mechanism (PBDA) to further bridge the inherent cross-domain discrepancy. Attributed to PSUL and PBDA, our DiDA effectively excavates domain-invariant discrimination for cross-domain image retrieval.
-    </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div>
+  <img src='images/DiDA_AAAI2024.jpeg' alt="DiDA" width = "500" height = "200" align=center></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC)
+
+Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#** 
+
+[**[Paper]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://github.com/wangxu-scu/DiDA)
+- we propose a novel method called disambiguated domain alignment (DiDA) for cross-domain retrieval with partial labels. In detail, DiDA elaborates a novel prototype-score unitization learning mechanism (PSUL) to extract common discriminative representations by simultaneously disambiguating the partial labels and narrowing the domain gap. Additionally, DiDA proposes a prototype-based domain alignment mechanism (PBDA) to further bridge the inherent cross-domain discrepancy. Attributed to PSUL and PBDA, our DiDA effectively excavates domain-invariant discrimination for cross-domain image retrieval.
+</div>
 </div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div>
-  <img src='images/CoDA_AAAI2023.png' alt="CoDA" width = "500px" height = "200px" align=center></div></div>
+  <img src='images/CoDA_AAAI2023.png' alt="CoDA" width = "500" height = "200" align=center></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image
