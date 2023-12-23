@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Dr. Xu Wang (王旭)** is currently an associate researcher at the College of Computer Science, Sichuan University. He received B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a visiting researcher in University of Adelaide and Australian Institute of Machine Learning (AIML), funded by China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis, and Multi-modal Learning. <a href='https://scholar.google.com/citations?user=XTOXhy4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+**Dr. Xu Wang (王旭)** is currently an associate researcher at the College of Computer Science, Sichuan University. He received the B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a visiting researcher at the University of Adelaide and the Australian Institute of Machine Learning (AIML), funded by the China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis, and Multi-modal Learning. <a href='https://scholar.google.com/citations?user=XTOXhy4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 📖 Educations
-- *2015.07 - 2021.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> Collge of Computer Science, Sichuan University, Ph.D.
+- *2015.07 - 2021.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> College of Computer Science, Sichuan University, Ph.D.
 - *2021.09 - 2021.03*, <a href="https://www.adelaide.edu.au/aiml/"><img class="png" src="/images/UOA_logo.png" width="20pt"></a> Australian Institute for Machine Learning (AIML), University of Adelaide, Joint Ph.D.
-- *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> Collge of Software, Sichuan University, B.E. 
+- *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> College of Software, Sichuan University, B.E. 
 
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024. Congratulations to Haoran! 
