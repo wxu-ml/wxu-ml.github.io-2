@@ -29,7 +29,7 @@ redirect_from:
 - *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024. Congratulations to Haoran! 
 
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div>
   <img src='images/DiDA_AAAI2024.jpeg' alt="DiDA" width = "500" height = "200" align=center></div></div>
@@ -61,8 +61,10 @@ Retrieval](https://arxiv.org/pdf/2302.06081.pdf)
 </div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, D **CVPR 2021**
+- [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212), Chao Su; Zhi Li; Tianyi Lei; Dezhong Peng; **Xu Wang**, **IEEE Signal Processing Letters**
+- [Deep Supervised Multi-View Learning with Graph Priors](https://ieeexplore.ieee.org/abstract/document/10341289/), Peng Hu; Liangli Zhen; Xi Peng; Hongyuan Zhu; Jie Lin; **Xu Wang**; Dezhong Peng, **IEEE Transactions on Image Processing**
+- [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165), Yuan Sun, Zhenwen Ren, Peng Hu, Dezhong Peng, **Xu Wang**, **IEEE Transactions on Multimedia**
+- [Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10098211), **Xu Wang**, Dezhong Peng, Peng Hu, Yunhong Gong, Yong Chen, **IEEE Transactions on Circuits and Systems for Video Technology**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
