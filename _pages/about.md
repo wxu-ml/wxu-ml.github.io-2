@@ -32,7 +32,7 @@ redirect_from:
 
 
 # 📝 Publications 
-### (denotes corresponding author, ^ denotes equal contribution)
+### (# denotes corresponding author, ^ denotes equal contribution)
 
 ## 2024
 - [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC). Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. **AAAI Conference on Artificial Intelligence (AAAI)**. 2024. [**[Code]**](https://github.com/wangxu-scu/DiDA)
