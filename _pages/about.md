@@ -38,6 +38,13 @@ redirect_from:
 - [Deep Supervised Multi-View Learning with Graph Priors](https://ieeexplore.ieee.org/abstract/document/10341289/). Peng Hu, Liangli Zhen, Xi Peng, Hongyuan Zhu, Jie Lin, **Xu Wang**, Dezhong Peng. **IEEE Transactions on Image Processing**. 2023.
 - [Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10098211). **Xu Wang**, Dezhong Peng, Peng Hu, Yunhong Gong, Yong Chen. **IEEE Transactions on Circuits and Systems for Video Technology**. 2023.
 - [Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval](https://arxiv.org/pdf/2302.06081.pdf). **Xu Wang**, Dezhong Peng, Ming Yan, Peng Hu. **AAAI**, 2023. [**[Code]**](https://github.com/wangxu-scu/CoDA)
+- [Cross-Modal Retrieval with Partially Mismatched Pairs](https://ieeexplore.ieee.org/abstract/document/10050111). Peng Hu, Zhenyu Huang, Dezhong Peng, **Xu Wang**, Xi Peng. **IEEE Transactions on Pattern Analysis and Machine Intelligence**. 2023.
+- [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/abstract/document/10061433/). Yuan Sun, **Xu Wang**, Dezhong Peng, Zhenwen Ren, Xiaobo Shen. **IEEE Transactions on Image Processing**. 2023.
+- [CLSEP: Contrastive Learning of Sentence Embedding with Prompt](https://www.sciencedirect.com/science/article/pii/S0950705123001314). Qian Wang, Weiqi Zhang, Tianyi Lei, Yu Cao, Dezhong Peng, **Xu Wang#**. **Knowledge-Based Systems**. 2023.
+- [Learning Relationship-Preserving Representation for Multi-Task Adversarial Attacks(https://www.sciencedirect.com/science/article/pii/S0925231223007038). Yong Chen, **Xu Wang**, Peng Hu, Zhong Yuan, Dezhong Peng, Qilin Li. **Neurocomputing**. 2023.
+- [Deep Semisupervised Class- and Correlation-collapsed Cross-view Learning](https://ieeexplore.ieee.org/abstract/document/9086133/). **Xu Wang**, Peng Hu, Pei Liu, Dezhong Peng. **IEEE Transactions on Cybernetics**. 2022.
+- [Adaptive Meta-learner via Gradient Similarity for Few-shot Text Classification](https://arxiv.org/abs/2209.04702). Tianyi Lei, Honghui Hu, Qiaoyang Luo, Dezhong Peng, **Xu Wang#**. **International Conference on Computational Linguistics (COLING)**. 2022.
+- [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3503161.3547922). Yang Qin, Dezhong Peng, Xi Peng, **Xu Wang**, Peng Hu. **The ACM International Conference on Multimedia (ACM MM)**. 2022.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
