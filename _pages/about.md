@@ -30,7 +30,7 @@ redirect_from:
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024. Congratulations to Haoran!
 
-# 📂 Call for Paper
+# ✏️ Call for Paper
 - Electronics (Q2, IF: 2.9) special issue on 'Data-Driven Intelligence in Autonomous Systems', Deadline: 15 August 2024. [Call for paper](https://www.mdpi.com/journal/electronics/special_issues/data_auto_sys)
 
 
