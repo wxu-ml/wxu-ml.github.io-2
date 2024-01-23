@@ -31,7 +31,8 @@ redirect_from:
 - *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024. Congratulations to Haoran! 
 
 
-# 📝 Publications (# denotes corresponding author, ^ denotes equal contribution)
+# 📝 Publications 
+### (denotes corresponding author, ^ denotes equal contribution)
 
 ## 2024
 - [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC). Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. **AAAI Conference on Artificial Intelligence (AAAI)**. 2024. [**[Code]**](https://github.com/wangxu-scu/DiDA)
@@ -50,7 +51,6 @@ redirect_from:
   
 ## 2022
 
-- [Deep Semisupervised Class- and Correlation-collapsed Cross-view Learning](https://ieeexplore.ieee.org/abstract/document/9086133/). **Xu Wang**, Peng Hu, Pei Liu, Dezhong Peng. **IEEE Transactions on Cybernetics**. 2022.
 - [Adaptive Meta-learner via Gradient Similarity for Few-shot Text Classification](https://arxiv.org/abs/2209.04702). Tianyi Lei, Honghui Hu, Qiaoyang Luo, Dezhong Peng, **Xu Wang#**. **International Conference on Computational Linguistics (COLING)**. 2022.
 - [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3503161.3547922). Yang Qin, Dezhong Peng, Xi Peng, **Xu Wang**, Peng Hu. **The ACM International Conference on Multimedia (ACM MM)**. 2022.
 - [MagicGAN: Multiagent Attacks Generate Interferential Category via GAN](https://www.sciencedirect.com/science/article/pii/S0950705122011169). Yong Chen, **Xu Wang#**, Peng Hu, Dezhong Peng. **Knowledge-Based Systems**. 2022.
@@ -58,9 +58,13 @@ redirect_from:
 ## 2021
 
 - [Drsl: Deep relational similarity learning for cross-modal retrieval](https://www.sciencedirect.com/science/article/pii/S0020025520307684). **Xu Wang**, Peng Hu, Liangli Zhen, Dezhong Peng. **Information Sciences**. 2021.
-  
-## 2019
 
+## 2020
+
+- [Deep Semisupervised Class- and Correlation-collapsed Cross-view Learning](https://ieeexplore.ieee.org/abstract/document/9086133/). **Xu Wang**, Peng Hu, Pei Liu, Dezhong Peng. **IEEE Transactions on Cybernetics**. 2020.
+
+
+## 2019
 - [Deep Supervised Cross-Modal Retrieval](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html). Liangli Zhen, Peng Hu, **Xu Wang**, Dezhong Peng. IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2019.
 - [Separated Variational Hashing Networks for Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3343031.3351078). Peng Hu^, **Xu Wang^**, Liangli Zhen, Dezhong Peng. **The ACM International Conference on Multimedia (ACM MM)**. 2019.
 - [Adversarial correlated autoencoder for unsupervised multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S0950705119300176). **Xu Wang**, Dezhong Peng, Peng Hu, Yongsheng Sang. **Knowledge-Based Systems**. 2019.
