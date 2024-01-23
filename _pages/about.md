@@ -31,7 +31,7 @@ redirect_from:
 - *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024. Congratulations to Haoran! 
 
 
-# 📝 Publications 
+# 📝 Publications (# denotes corresponding author, ^ denotes equal contribution)
 - [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC). Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. **AAAI Conference on Artificial Intelligence (AAAI)**. 2024. [**[Code]**](https://github.com/wangxu-scu/DiDA)
 - [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212), Chao Su, Zhi Li, Tianyi Lei, Dezhong Peng, **Xu Wang#**. **IEEE Signal Processing Letters**. 2024.
 - [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165). Yuan Sun, Zhenwen Ren, Peng Hu, Dezhong Peng, **Xu Wang#**. **IEEE Transactions on Multimedia**. 2024.
