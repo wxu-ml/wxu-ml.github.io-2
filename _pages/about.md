@@ -40,12 +40,12 @@ redirect_from:
 - [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165). Yuan Sun, Zhenwen Ren, Peng Hu, Dezhong Peng, **Xu Wang#**. **IEEE Transactions on Multimedia**. 2024.
 
 ## 2023
-- [Deep Supervised Multi-View Learning with Graph Priors](https://ieeexplore.ieee.org/abstract/document/10341289/). Peng Hu, Liangli Zhen, Xi Peng, Hongyuan Zhu, Jie Lin, **Xu Wang**, Dezhong Peng. **IEEE Transactions on Image Processing**. 2023.
-- [Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10098211). **Xu Wang**, Dezhong Peng, Peng Hu, Yunhong Gong, Yong Chen. **IEEE Transactions on Circuits and Systems for Video Technology**. 2023.
+- [Deep Supervised Multi-View Learning with Graph Priors](https://ieeexplore.ieee.org/abstract/document/10341289/). Peng Hu, Liangli Zhen, Xi Peng, Hongyuan Zhu, Jie Lin, **Xu Wang**, Dezhong Peng. **IEEE Transactions on Image Processing**. 2023. [**[Code]**](https://github.com/penghu-cs/DMLPA)
+- [Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10098211). **Xu Wang**, Dezhong Peng, Peng Hu, Yunhong Gong, Yong Chen. **IEEE Transactions on Circuits and Systems for Video Technology**. 2023. [**[Code]**](https://github.com/wangxu-scu/CA)
 - [Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval](https://arxiv.org/pdf/2302.06081.pdf). **Xu Wang**, Dezhong Peng, Ming Yan, Peng Hu. **AAAI Conference on Artificial Intelligence (AAAI)**, 2023. [**[Code]**](https://github.com/wangxu-scu/CoDA)
-- [Cross-Modal Retrieval with Partially Mismatched Pairs](https://ieeexplore.ieee.org/abstract/document/10050111). Peng Hu, Zhenyu Huang, Dezhong Peng, **Xu Wang**, Xi Peng. **IEEE Transactions on Pattern Analysis and Machine Intelligence**. 2023.
+- [Cross-Modal Retrieval with Partially Mismatched Pairs](https://ieeexplore.ieee.org/abstract/document/10050111). Peng Hu, Zhenyu Huang, Dezhong Peng, **Xu Wang**, Xi Peng. **IEEE Transactions on Pattern Analysis and Machine Intelligence**. 2023. [**[Code]**](https://github.com/penghu-cs/RCL)
 - [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/abstract/document/10061433/). Yuan Sun, **Xu Wang**, Dezhong Peng, Zhenwen Ren, Xiaobo Shen. **IEEE Transactions on Image Processing**. 2023.
-- [CLSEP: Contrastive Learning of Sentence Embedding with Prompt](https://www.sciencedirect.com/science/article/pii/S0950705123001314). Qian Wang, Weiqi Zhang, Tianyi Lei, Yu Cao, Dezhong Peng, **Xu Wang#**. **Knowledge-Based Systems**. 2023.
+- [CLSEP: Contrastive Learning of Sentence Embedding with Prompt](https://www.sciencedirect.com/science/article/pii/S0950705123001314). Qian Wang, Weiqi Zhang, Tianyi Lei, Yu Cao, Dezhong Peng, **Xu Wang#**. **Knowledge-Based Systems**. 2023. [**[Code]**](https://github.com/qianandfei/CLSEP-Contrastive-Learning-of-Sentence-Embedding-with-Prompt)
 - [Learning Relationship-Preserving Representation for Multi-Task Adversarial Attacks](https://www.sciencedirect.com/science/article/pii/S0925231223007038). Yong Chen, **Xu Wang**, Peng Hu, Zhong Yuan, Dezhong Peng, Qilin Li. **Neurocomputing**. 2023.
   
 ## 2022
