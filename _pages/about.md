@@ -33,6 +33,7 @@ redirect_from:
 
 # 📝 Publications 
 
+[//]: (
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div>
   <img src='images/DiDA_AAAI2024.jpeg' alt="DiDA" width = "500" height = "200" align=center></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,7 +48,6 @@ Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div>
   <img src='images/CoDA_AAAI2023.png' alt="CoDA" width = "500" height = "200" align=center></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,8 +61,9 @@ Retrieval](https://arxiv.org/pdf/2302.06081.pdf)
 [**[Code]**](https://github.com/wangxu-scu/CoDA)
 </div>
 </div>
+)
 
-
+- [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC), Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**, **AAAI 2024**
 - [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212), Chao Su; Zhi Li; Tianyi Lei; Dezhong Peng; **Xu Wang**, **IEEE Signal Processing Letters**
 - [Deep Supervised Multi-View Learning with Graph Priors](https://ieeexplore.ieee.org/abstract/document/10341289/), Peng Hu; Liangli Zhen; Xi Peng; Hongyuan Zhu; Jie Lin; **Xu Wang**; Dezhong Peng, **IEEE Transactions on Image Processing**
 - [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165), Yuan Sun, Zhenwen Ren, Peng Hu, Dezhong Peng, **Xu Wang**, **IEEE Transactions on Multimedia**
