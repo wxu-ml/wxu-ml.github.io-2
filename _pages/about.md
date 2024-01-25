@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Dr. Xu Wang (王旭)** is currently an associate researcher at the College of Computer Science, Sichuan University. He received the B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a visiting researcher at the University of Adelaide and the Australian Institute of Machine Learning (AIML), funded by the China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis, and Multi-modal Learning. 
+**Dr. Xu Wang (王旭)** is currently an associate researcher at the College of Computer Science, Sichuan University. He received the B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a Joint Ph.D at the Australian Institute of Machine Learning (AIML), University of Adelaide, funded by the China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis, and Multi-modal Learning. 
 
 [//]: (<a href='https://scholar.google.com/citations?user=XTOXhy4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).)
 
@@ -70,13 +70,7 @@ redirect_from:
 - [Multimodal adversarial network for cross-modal retrieval](https://www.sciencedirect.com/science/article/pii/S0950705119302230). Peng Hu, Dezhong Peng, **Xu Wang**, Yong Xiang. **Knowledge-Based Systems**. 2019. [**[Code]**](https://github.com/penghu-cs/MAN)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Special Support from China Postdoctoral Foundation.
+- Excellent Doctoral Candidate of Sichuan Province.
+- Support from the China Scholarship Council.
+- China National Scholarship.
