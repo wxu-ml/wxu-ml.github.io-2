@@ -24,7 +24,7 @@ redirect_from:
 
 # 📖 Educations
 - *2015.07 - 2021.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> College of Computer Science, Sichuan University, Ph.D.
-- *2021.09 - 2021.03*, <a href="https://www.adelaide.edu.au/aiml/"><img class="png" src="/images/UOA_logo.png" width="20pt"></a> Australian Institute for Machine Learning (AIML), University of Adelaide, Joint Ph.D.
+- *2019.09 - 2021.03*, <a href="https://www.adelaide.edu.au/aiml/"><img class="png" src="/images/UOA_logo.png" width="20pt"></a> Australian Institute for Machine Learning (AIML), University of Adelaide, Joint Ph.D.
 - *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> College of Software, Sichuan University, B.E. 
 
 # 🔥 News
