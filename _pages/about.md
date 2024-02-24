@@ -37,6 +37,7 @@ redirect_from:
 # 📝 Publications 
 ### (# denotes corresponding author, ^ denotes equal contribution)
 
+<p align = "justify"> 
 ## 2024
 - Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC). **AAAI Conference on Artificial Intelligence (AAAI)**. 2024. In press. [**[Code]**](https://github.com/wangxu-scu/DiDA)
 - Chao Su, Zhi Li, Tianyi Lei, Dezhong Peng, **Xu Wang#**. [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212). **IEEE Signal Processing Letters**. 2024, 31: 236-240.
@@ -68,6 +69,7 @@ redirect_from:
 - Peng Hu^, **Xu Wang^**, Liangli Zhen, Dezhong Peng. [Separated Variational Hashing Networks for Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3343031.3351078). **The ACM International Conference on Multimedia (ACM MM)**. 2019, 1721-1729.
 - **Xu Wang**, Dezhong Peng, Peng Hu, Yongsheng Sang. [Adversarial Correlated Autoencoder for Unsupervised Multi-view Representation Learning](https://www.sciencedirect.com/science/article/pii/S0950705119300176). **Knowledge-Based Systems**. 2019, 168: 109-20.
 - Peng Hu, Dezhong Peng, **Xu Wang**, Yong Xiang. [Multimodal Adversarial Network for Cross-modal Retrieval](https://www.sciencedirect.com/science/article/pii/S0950705119302230). **Knowledge-Based Systems**. 2019, 180: 38-50. [**[Code]**](https://github.com/penghu-cs/MAN)
+</p> 
 
 # 🎖 Honors and Awards
 - Special Support from China Postdoctoral Foundation.
