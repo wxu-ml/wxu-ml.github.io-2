@@ -39,11 +39,10 @@ redirect_from:
 
 
 ## 2024
-<p align = "justify"> 
-- Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC). **AAAI Conference on Artificial Intelligence (AAAI)**. 2024. In press. [**[Code]**](https://github.com/wangxu-scu/DiDA)
-- Chao Su, Zhi Li, Tianyi Lei, Dezhong Peng, **Xu Wang#**. [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212). **IEEE Signal Processing Letters**. 2024, 31: 236-240.
-- Yuan Sun, Zhenwen Ren, Peng Hu, Dezhong Peng, **Xu Wang#**. [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165). **IEEE Transactions on Multimedia**. 2024, 26: 824-836. [**[Code]**](https://github.com/sunyuan-cs/HCCH)
-</p> 
+:-: Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC). **AAAI Conference on Artificial Intelligence (AAAI)**. 2024. In press. [**[Code]**](https://github.com/wangxu-scu/DiDA)
+:-: Chao Su, Zhi Li, Tianyi Lei, Dezhong Peng, **Xu Wang#**. [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212). **IEEE Signal Processing Letters**. 2024, 31: 236-240.
+:-: Yuan Sun, Zhenwen Ren, Peng Hu, Dezhong Peng, **Xu Wang#**. [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165). **IEEE Transactions on Multimedia**. 2024, 26: 824-836. [**[Code]**](https://github.com/sunyuan-cs/HCCH)
+
 
 ## 2023
 - Peng Hu, Liangli Zhen, Xi Peng, Hongyuan Zhu, Jie Lin, **Xu Wang**, Dezhong Peng. [Deep Supervised Multi-View Learning with Graph Priors](https://ieeexplore.ieee.org/abstract/document/10341289/). **IEEE Transactions on Image Processing**. 2023, doi: 10.1109/TIP.2023.3335825. [**[Code]**](https://github.com/penghu-cs/DMLPA)
