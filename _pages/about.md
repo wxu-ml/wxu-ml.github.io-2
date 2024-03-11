@@ -62,7 +62,7 @@ redirect_from:
 - **Xu Wang**, Peng Hu, Liangli Zhen, Dezhong Peng. [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://www.sciencedirect.com/science/article/pii/S0020025520307684). **Information Sciences**. 2021, 546: 298-311. [**[Code]**](https://github.com/wangxu-scu/DRSL)
 
 ## 2020
-- **Xu Wang**, Peng Hu, Pei Liu, Dezhong Peng. [Deep Semisupervised Class- and Correlation-collapsed Cross-view Learning](https://ieeexplore.ieee.org/abstract/document/9086133/). **IEEE Transactions on Cybernetics**. 2020, 52(3): 1588-1601.
+- **Xu Wang^**, Peng Hu^, Pei Liu, Dezhong Peng. [Deep Semisupervised Class- and Correlation-collapsed Cross-view Learning](https://ieeexplore.ieee.org/abstract/document/9086133/). **IEEE Transactions on Cybernetics**. 2020, 52(3): 1588-1601.
 
 
 ## 2019
