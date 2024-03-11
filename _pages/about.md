@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Dr. Xu Wang (王旭)** is currently an associate researcher at the College of Computer Science, Sichuan University. He received the B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a Joint Ph.D at the Australian Institute of Machine Learning (AIML), University of Adelaide, funded by the China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis, and Multi-modal Learning. 
+**Dr. Xu Wang (王旭)** is currently an associate researcher at the College of Computer Science, Sichuan University. He received the B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a Joint Ph.D at the Australian Institute for Machine Learning (AIML), University of Adelaide, funded by the China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis, and Multi-modal Learning. 
 
 [//]: (<a href='https://scholar.google.com/citations?user=XTOXhy4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).)
 
@@ -66,7 +66,7 @@ redirect_from:
 
 
 ## 2019
-- Liangli Zhen, Peng Hu, **Xu Wang**, Dezhong Peng. [Deep Supervised Cross-Modal Retrieval](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html). IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2019, 10394-10403. [**[Code]**](https://github.com/penghu-cs/DSCMR)
+- Liangli Zhen, Peng Hu, **Xu Wang**, Dezhong Peng. [Deep Supervised Cross-Modal Retrieval](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html). **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**. 2019, 10394-10403. [**[Code]**](https://github.com/penghu-cs/DSCMR)
 - Peng Hu^, **Xu Wang^**, Liangli Zhen, Dezhong Peng. [Separated Variational Hashing Networks for Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3343031.3351078). **The ACM International Conference on Multimedia (ACM MM)**. 2019, 1721-1729.
 - **Xu Wang**, Dezhong Peng, Peng Hu, Yongsheng Sang. [Adversarial Correlated Autoencoder for Unsupervised Multi-view Representation Learning](https://www.sciencedirect.com/science/article/pii/S0950705119300176). **Knowledge-Based Systems**. 2019, 168: 109-20.
 - Peng Hu, Dezhong Peng, **Xu Wang**, Yong Xiang. [Multimodal Adversarial Network for Cross-modal Retrieval](https://www.sciencedirect.com/science/article/pii/S0950705119302230). **Knowledge-Based Systems**. 2019, 180: 38-50. [**[Code]**](https://github.com/penghu-cs/MAN)
