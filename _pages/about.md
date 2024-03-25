@@ -28,7 +28,8 @@ redirect_from:
 - *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> B.E., Sichuan University, Chengdu, China.
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024. Congratulations to Haoran!
+- *2024.03*: &nbsp;🎉🎉🎉 One paper was accepted by Information Science 2024. Congratulations to Yong!
+- *2023.12*: &nbsp;🎉🎉🎉 One paper was accepted by AAAI 2024. Congratulations to Haoran!
 
 # ✏️ Call for Paper
 - Electronics (Q2, IF: 2.9) special issue on 'Data-Driven Intelligence in Autonomous Systems', Deadline: 15 August 2024. [Call for paper](https://www.mdpi.com/journal/electronics/special_issues/data_auto_sys)
@@ -39,6 +40,7 @@ redirect_from:
 
 
 ## 2024
+- Yong Chen, Peng Hu, Zhong Yuan, Dezhong Peng, **Xu Wang^**. [Integrating Confidence Calibration and Adversarial Robustness via Adversarial Calibration Entropy](XXX). **Information Sciences**. 2024. [**[Code]**](XXX)
 - Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=XTOXhy4AAAAJ&sortby=pubdate&citation_for_view=XTOXhy4AAAAJ:dhFuZR0502QC). **AAAI Conference on Artificial Intelligence (AAAI)**. 2024. In press. [**[Code]**](https://github.com/wangxu-scu/DiDA)
 - Chao Su, Zhi Li, Tianyi Lei, Dezhong Peng, **Xu Wang#**. [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212). **IEEE Signal Processing Letters**. 2024, 31: 236-240.
 - Yuan Sun, Zhenwen Ren, Peng Hu, Dezhong Peng, **Xu Wang#**. [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165). **IEEE Transactions on Multimedia**. 2024, 26: 824-836. [**[Code]**](https://github.com/sunyuan-cs/HCCH)
