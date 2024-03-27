@@ -28,7 +28,6 @@ redirect_from:
 - *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> B.E., Sichuan University, Chengdu, China.
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉🎉 One paper was accepted by Information Science 2024. Congratulations to Yong!
 - *2023.12*: &nbsp;🎉🎉🎉 One paper was accepted by AAAI 2024. Congratulations to Haoran!
 
 # ✏️ Call for Paper
