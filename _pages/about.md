@@ -28,7 +28,8 @@ redirect_from:
 - *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> B.E., Sichuan University, Chengdu, China.
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉🎉 One paper was accepted by AAAI 2024. Congratulations to Haoran!
+- *2024.06*: &nbsp;🎉🎉🎉 One paper was accepted by IEEE Transactions on Information Forensics & Security (IEEE TIFS). Congratulations to Yong!
+- *2023.12*: &nbsp;🎉🎉🎉 One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024). Congratulations to Haoran!
 
 # ✏️ Call for Paper
 - Electronics (Q2, IF: 2.9) special issue on 'Data-Driven Intelligence in Autonomous Systems', Deadline: 15 August 2024. [Call for paper](https://www.mdpi.com/journal/electronics/special_issues/data_auto_sys)
@@ -39,6 +40,8 @@ redirect_from:
 
 
 ## 2024
+- Yong Chen, Xuedong Li, Peng Hu, Dezhong Peng, **Xu Wang#**. [DifFilter: Defending Against Adversarial Perturbations with
+Diffusion Filter]. **IEEE Transactions on Information Forensics & Security**. 2024.
 [//]: - Yong Chen, Peng Hu, Zhong Yuan, Dezhong Peng, **Xu Wang#**. [Integrating Confidence Calibration and Adversarial Robustness via Adversarial Calibration Entropy](https://www.sciencedirect.com/science/article/pii/S0020025524004456). **Information Sciences**. 2024. 
 - Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/28150). **AAAI Conference on Artificial Intelligence (AAAI)**. 2024, 38(4), 3612-3620. [**[Code]**](https://github.com/wangxu-scu/DiDA)
 - Chao Su, Zhi Li, Tianyi Lei, Dezhong Peng, **Xu Wang#**. [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212). **IEEE Signal Processing Letters**. 2024, 31: 236-240.
