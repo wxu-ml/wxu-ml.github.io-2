@@ -42,10 +42,10 @@ redirect_from:
 ## 2024
 [//]: - Yong Chen, Peng Hu, Zhong Yuan, Dezhong Peng, **Xu Wang#**. [Integrating Confidence Calibration and Adversarial Robustness via Adversarial Calibration Entropy](https://www.sciencedirect.com/science/article/pii/S0020025524004456). **Information Sciences**. 2024.
 - Yong Chen, Xuedong Li, Peng Hu, Dezhong Peng, **Xu Wang#**. [DifFilter: Defending Against Adversarial Perturbations with
-Diffusion Filter]. **IEEE Transactions on Information Forensics & Security**. 2024. 
-- Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/28150). **AAAI Conference on Artificial Intelligence (AAAI)**. 2024, 38(4), 3612-3620. [**[Code]**](https://github.com/wangxu-scu/DiDA)
-- Chao Su, Zhi Li, Tianyi Lei, Dezhong Peng, **Xu Wang#**. [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212). **IEEE Signal Processing Letters**. 2024, 31: 236-240.
-- Yuan Sun, Zhenwen Ren, Peng Hu, Dezhong Peng, **Xu Wang#**. [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165). **IEEE Transactions on Multimedia**. 2024, 26: 824-836. [**[Code]**](https://github.com/sunyuan-cs/HCCH)
+Diffusion Filter](https://ieeexplore.ieee.org/document/10584510). **IEEE Transactions on Information Forensics & Security**. 2024. 
+- Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/28150). **AAAI Conference on Artificial Intelligence (AAAI)**. 2024, 38(4), 3612-3620. [**[Code]**](https://github.com/wangxu-scu/DiDA) 
+- Chao Su, Zhi Li, Tianyi Lei, Dezhong Peng, **Xu Wang#**. [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212). **IEEE Signal Processing Letters**. 2024, 31: 236-240. 
+- Yuan Sun, Zhenwen Ren, Peng Hu, Dezhong Peng, **Xu Wang#**. [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165). **IEEE Transactions on Multimedia**. 2024, 26: 824-836. [**[Code]**](https://github.com/sunyuan-cs/HCCH) 
 
 
 ## 2023
