@@ -28,7 +28,6 @@ redirect_from:
 - *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> B.E., Sichuan University, Chengdu, China.
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉🎉 I was invited to be the Workflow Chair of IJCAI 2025!
 - *2024.06*: &nbsp;🎉🎉🎉 One paper was accepted by IEEE Transactions on Information Forensics & Security (IEEE TIFS). Congratulations to Yong!
 - *2023.12*: &nbsp;🎉🎉🎉 One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024). Congratulations to Haoran!
 
