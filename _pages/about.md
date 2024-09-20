@@ -44,7 +44,7 @@ redirect_from:
 - Yong Chen, Xuedong Li, Peng Hu, Dezhong Peng, **Xu Wang#**. [DifFilter: Defending Against Adversarial Perturbations with
 Diffusion Filter](https://ieeexplore.ieee.org/document/10584510). **IEEE Transactions on Information Forensics & Security**. 2024. 
 - Haoran Liu, Ying Ma, Ming Yan, Yingke Chen, Dezhong Peng, **Xu Wang#**. [DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/28150). **AAAI Conference on Artificial Intelligence (AAAI)**. 2024, 38(4), 3612-3620. [**[Code]**](https://github.com/wangxu-scu/DiDA) 
-- Chao Su, Zhi Li, Tianyi Lei, Dezhong Peng, **Xu Wang#**. [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212). **IEEE Signal Processing Letters**. 2024, 31: 236-240. 
+- Chao Su, Zhi Li, Tianyi Lei, Dezhong Peng, **Xu Wang#**. [MetaVG: A Meta-Learning Framework for Visual Grounding](https://ieeexplore.ieee.org/abstract/document/10365212). **IEEE Signal Processing Letters**. 2024, 31: 236-240. [**[Code]**](https://github.com/Rose-bud/MetaVG) 
 - Yuan Sun, Zhenwen Ren, Peng Hu, Dezhong Peng, **Xu Wang#**. [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165). **IEEE Transactions on Multimedia**. 2024, 26: 824-836. [**[Code]**](https://github.com/sunyuan-cs/HCCH) 
 
 
