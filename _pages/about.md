@@ -28,8 +28,9 @@ redirect_from:
 - *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> B.E., Sichuan University, Chengdu, China.
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉🎉 One paper was accepted by IEEE Transactions on Information Forensics & Security (IEEE TIFS). Congratulations to Yong!
-- *2023.12*: &nbsp;🎉🎉🎉 One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024). Congratulations to Haoran!
+- *2024.09*: &nbsp; I will serve as a Workflow Chiar for IJCAI 2025.
+- *2024.06*: &nbsp; One paper was accepted by IEEE Transactions on Information Forensics & Security (IEEE TIFS). Congratulations to Yong!
+- *2023.12*: &nbsp; One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024). Congratulations to Haoran!
 
 # ✏️ Call for Paper
 - Electronics (Q2, IF: 2.9) special issue on 'Data-Driven Intelligence in Autonomous Systems', Deadline: 15 August 2024. [Call for paper](https://www.mdpi.com/journal/electronics/special_issues/data_auto_sys)
