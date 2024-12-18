@@ -28,10 +28,13 @@ redirect_from:
 - *2011.09 - 2015.06*, <a href="https://en.scu.edu.cn/"><img class="png" src="/images/SCU_logo.png" width="20pt"></a> B.E., Sichuan University, Chengdu, China.
 
 # 🔥 News
-- *2024.12*: &nbsp; Two papers was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2025). Congratulations to Chao and Zi-niu!
-- *2024.09*: &nbsp; I will serve as the Workflow Chair for the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025), which will be held in Montreal, Canada from 16th Aug 2025 – 22th Aug 2025.
-- *2024.06*: &nbsp; One paper was accepted by IEEE Transactions on Information Forensics & Security (IEEE TIFS). Congratulations to Yong!
-- *2023.12*: &nbsp; One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024). Congratulations to Hao-ran!
+- *2024.12*: &nbsp; Two papers was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2025, <font color="red">CCF-A</font>). Congratulations to Chao and Zi-niu!
+- *2024.09*: &nbsp; I will serve as the Workflow Chair for the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025, <font color="red">CCF-A</font>), which will be held in Montreal, Canada from 16th Aug 2025 – 22th Aug 2025.
+- *2024.06*: &nbsp; One paper was accepted by IEEE Transactions on Information Forensics & Security (IEEE TIFS, <font color="red">CCF-A</font>). Congratulations to Yong!
+- *2023.12*: &nbsp; One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024, <font color="red">CCF-A</font>). Congratulations to Hao-ran!
+- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (IEEE TIP, <font color="red">CCF-A</font>). Congratulations to Peng!
+- *2023.04*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT, <font color="red">JCR-Q1</font>). Thanks to all coauthors!
+- *2022.12*: &nbsp; One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2023, <font color="red">CCF-A</font>). Thanks to all coauthors!
 
 # ✏️ Call for Paper
 - Electronics (Q2, IF: 2.9) special issue on 'Data-Driven Intelligence in Autonomous Systems', Deadline: 15 August 2024. [Call for paper](https://www.mdpi.com/journal/electronics/special_issues/data_auto_sys)
