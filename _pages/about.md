@@ -38,7 +38,7 @@ redirect_from:
 - *2022.12*: &nbsp; One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2023, <font color="red">CCF-A</font>). Thanks to all coauthors!
 
 # ✏️ Call for Paper
-- Electronics (Q2, IF: 2.9) special issue on 'Data-Driven Intelligence in Autonomous Systems', Deadline: 15 August 2024. [Call for paper](https://www.mdpi.com/journal/electronics/special_issues/data_auto_sys)
+- Electronics (Q2, IF: 2.9) special issue on 'Data-Driven Intelligence in Autonomous Systems', Deadline: 15 May 2025. [Call for paper](https://www.mdpi.com/journal/electronics/special_issues/data_auto_sys)
 
 
 # 📝 Publications 
