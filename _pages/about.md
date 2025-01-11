@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<p align="justify">
 **Dr. Xu Wang (王旭)** is currently an associate researcher at the College of Computer Science, Sichuan University. He received the B.E. degree and Ph.D. degree from Sichuan University in 2015 and 2021, respectively. He was a Joint Ph.D at the Australian Institute for Machine Learning (AIML), University of Adelaide, funded by the China Scholarship Council from 2019 to 2021. His research interests include Machine Learning, Deep Learning, Multi-view Analysis, and Multi-modal Learning. 
+</p>
 
 [//]: (<a href='https://scholar.google.com/citations?user=XTOXhy4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).)
 
