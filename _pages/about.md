@@ -57,6 +57,7 @@ Diffusion Filter](https://ieeexplore.ieee.org/document/10584510). **IEEE Transac
 
 
 ## 2023
+<p align="justify">
 - Peng Hu, Liangli Zhen, Xi Peng, Hongyuan Zhu, Jie Lin, **Xu Wang**, Dezhong Peng. [Deep Supervised Multi-View Learning with Graph Priors](https://ieeexplore.ieee.org/abstract/document/10341289/). **IEEE Transactions on Image Processing (IEEE TIP)**. 2023, doi: 10.1109/TIP.2023.3335825. (<font color="red">CCF-A</font>) [**[Code]**](https://github.com/penghu-cs/DMLPA)
 - **Xu Wang**, Dezhong Peng, Peng Hu, Yunhong Gong, Yong Chen. [Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10098211). **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**. 2023, 33(11): 7024-7035. [**[Code]**](https://github.com/wangxu-scu/CA)
 - **Xu Wang**, Dezhong Peng, Ming Yan, Peng Hu. [Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval](https://arxiv.org/pdf/2302.06081.pdf). **AAAI Conference on Artificial Intelligence (AAAI)**. 2023, 10200–10208. (<font color="red">CCF-A Oral</font>) [**[Code]**](https://github.com/wangxu-scu/CoDA)
@@ -64,7 +65,8 @@ Diffusion Filter](https://ieeexplore.ieee.org/document/10584510). **IEEE Transac
 - Yuan Sun, **Xu Wang**, Dezhong Peng, Zhenwen Ren, Xiaobo Shen. [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/abstract/document/10061433/). **IEEE Transactions on Image Processing (IEEE TIP)**. 2023, 32: 1732-44. (<font color="red">CCF-A</font>)
 - Qian Wang, Weiqi Zhang, Tianyi Lei, Yu Cao, Dezhong Peng, **Xu Wang#**. [CLSEP: Contrastive Learning of Sentence Embedding with Prompt](https://www.sciencedirect.com/science/article/pii/S0950705123001314). **Knowledge-Based Systems**. 2023, 266: 110381. [**[Code]**](https://github.com/qianandfei/CLSEP-Contrastive-Learning-of-Sentence-Embedding-with-Prompt)
 - Yong Chen, **Xu Wang**, Peng Hu, Zhong Yuan, Dezhong Peng, Qilin Li. [Learning Relationship-Preserving Representation for Multi-Task Adversarial Attacks](https://www.sciencedirect.com/science/article/pii/S0925231223007038). **Neurocomputing**. 2023, 554: 126580.
-  
+</p>
+
 ## 2022
 - Tianyi Lei, Honghui Hu, Qiaoyang Luo, Dezhong Peng, **Xu Wang#**. [Adaptive Meta-learner via Gradient Similarity for Few-shot Text Classification](https://arxiv.org/abs/2209.04702). **International Conference on Computational Linguistics (COLING)**. 2022, 4873–4882. [**[Code]**](https://github.com/Tianyi-Lei/Adaptive-Meta-learner-via-Gradient-Similarity-for-Few-shot-Text-Classification)
 - Yang Qin, Dezhong Peng, Xi Peng, **Xu Wang**, Peng Hu. [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3503161.3547922). **The ACM International Conference on Multimedia (ACM MM)**. 2022, 4948-4956. (<font color="red">CCF-A</font>) [**[Code]**](https://github.com/wangxu-scu/DECL)
