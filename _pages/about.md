@@ -57,7 +57,9 @@ Diffusion Filter](https://ieeexplore.ieee.org/document/10584510). **IEEE Transac
 
 
 ## 2023
-- <p align="justify"> Peng Hu, Liangli Zhen, Xi Peng, Hongyuan Zhu, Jie Lin, **Xu Wang**, Dezhong Peng. [Deep Supervised Multi-View Learning with Graph Priors](https://ieeexplore.ieee.org/abstract/document/10341289/). **IEEE Transactions on Image Processing (IEEE TIP)**. 2023, doi: 10.1109/TIP.2023.3335825. (<font color="red">CCF-A</font>) [**[Code]**](https://github.com/penghu-cs/DMLPA) </p>
+- <p align="justify"> 
+Peng Hu, Liangli Zhen, Xi Peng, Hongyuan Zhu, Jie Lin, **Xu Wang**, Dezhong Peng. <a href="https://ieeexplore.ieee.org/abstract/document/10341289/">Deep Supervised Multi-View Learning with Graph Priors</a>. <b>IEEE Transactions on Image Processing (IEEE TIP)</b>b>. 2023, doi: 10.1109/TIP.2023.3335825. (<font color="red">CCF-A</font>) <a href="https://github.com/penghu-cs/DMLPA">[Code]</a 
+</p>
 - **Xu Wang**, Dezhong Peng, Peng Hu, Yunhong Gong, Yong Chen. [Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10098211). **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**. 2023, 33(11): 7024-7035. [**[Code]**](https://github.com/wangxu-scu/CA)
 - **Xu Wang**, Dezhong Peng, Ming Yan, Peng Hu. [Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval](https://arxiv.org/pdf/2302.06081.pdf). **AAAI Conference on Artificial Intelligence (AAAI)**. 2023, 10200–10208. (<font color="red">CCF-A Oral</font>) [**[Code]**](https://github.com/wangxu-scu/CoDA)
 - Peng Hu, Zhenyu Huang, Dezhong Peng, **Xu Wang**, Xi Peng. [Cross-Modal Retrieval with Partially Mismatched Pairs](https://ieeexplore.ieee.org/abstract/document/10050111). **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)**. 2023, doi: 10.1109/TPAMI.2023.3247939. (<font color="red">CCF-A</font>) [**[Code]**](https://github.com/penghu-cs/RCL)
